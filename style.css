@@ -47,7 +47,7 @@ section{
     
 }
 .dream-area{
-    background-image: url(../developer-portfolio/img/dream-bg.png);
+    background-image: url(img/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 
@@ -64,7 +64,7 @@ section{
     background-color: white;
 }
 .ex-area{
-    background-image: url(../developer-portfolio/img/exp-bg.png);
+    background-image: url(img/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
